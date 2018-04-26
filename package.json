@@ -1,0 +1,22 @@
+elm{
+  "name": "c9comp",
+  "version": "1.0.0",
+  "description": "online ide para compilar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAramburo/wtf-is-elm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelAramburo/wtf-is-elm/issues"
+  },
+  "homepage": "https://github.com/MiguelAramburo/wtf-is-elm#readme",
+  "dependencies": {
+    "elm": "^0.18.0"
+  }
+}
